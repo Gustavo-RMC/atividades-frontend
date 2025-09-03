@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+h2 {
+    font-size: 100px ;
+    background-color: lightskyblue;
+    color: yellow;
+}
+#ul1 {
+    font-size: 50px;
+    background-color: lightskyblue;
+    color: yellow;
+    font-style: italic;
+}
+img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    border-color: lightskyblue;
+    background-color: black;
+}
